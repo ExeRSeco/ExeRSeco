@@ -10,3 +10,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a> </a>
 </p>
+
+-  As a frontend developer, I'm constantly learning and exploring new technologies to enhance my skills.
+
+-  Ask me about my experience developing engaging and responsive apps for different devices.
+
+-  I'm delving deeper into using AI to optimize development time.
